@@ -16,7 +16,7 @@
 ## 👨‍👩‍👧‍👦 Team
 | 조성연<br>(팀장, BE) | 김평주<br>(FE) | 박승연<br>(AI) | 한도연<br>(FE) |
 | :---: | :---: | :---: | :---: |
-| <img alt="조성연" src="" height="100" width="100"> | <img alt="김평주" src="" height="100" width="100"> | <img alt="박승연" src="" height="100" width="100"> | <img alt="박승연" src="" height="100" width="100"> |
+| <img alt="조성연" src="" height="100" width="100"> | <img alt="김평주" src="" height="100" width="100"> | <img alt="박승연" src="" height="100" width="100"> | <img alt="한도연" src="" height="100" width="100"> |
 | [@yeonnnnjs](https://github.com/yeonnnnjs) |    [@pjookim](https://github.com/pjookim) | [@AstronaCat](https://github.com/AstronaCat) | [@wsd9489](https://github.com/wsd9489) |
 
 ### Tools
