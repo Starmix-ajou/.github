@@ -1,0 +1,17 @@
+name: Sync to Personal Repo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Push to Personal Repository
+        run: |
+          git push --mirror https://GH_PERSONAL_ACCESS_TOKEN@github.com/pjookim/starmix-frontend-deploy
