@@ -1,4 +1,4 @@
-<h1>Starmix</h1>
+s<h1>Starmix</h1>
 <div  align="center">
   <img width="40%" src="https://github.com/user-attachments/assets/f4506e48-c1b8-49ac-a19e-63890523a9dd" alt="starmix">
 </div>
@@ -30,9 +30,9 @@
 | <img alt="TypeScript" src ="https://github.com/user-attachments/assets/5288f3db-96a3-41af-b47e-caeac03277ab" width="65" height="65" /> | <img alt="TypeScript" src ="https://github.com/user-attachments/assets/fa16ac58-00a2-46e1-9295-1552edb6986c" width="65" height="65" /> | <img alt="TypeScript" src ="https://github.com/user-attachments/assets/06f473b2-1f16-4165-92c0-3a94ff2ea161" width="65" height="65" /> | 
 
 ### Back-end
-| Java | mySQL | Spring | Spring<br>Boot |
-| :---: | :---: | :---: | :---: |
-| <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div> | <img alt="spring logo" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50" > | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > |
+| Java | mySQL | Spring<br>Boot |
+| :---: | :---: | :---: |
+| <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div> | <img alt="spring-boot logo" src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > |
 
 ### Infra
 | AWS | Vercel | Docker | ? |
