@@ -24,9 +24,11 @@
 ### Service
 <img src="https://github.com/user-attachments/assets/9005a269-6556-43d7-975b-6780ec01e92b">
 </br>
+
 ### Application
 <img src="https://github.com/user-attachments/assets/7829bc5c-8b38-41ea-8c36-7ba2f3b1357c">
 </br>
+
 ### Infra
 <img src="https://github.com/user-attachments/assets/5f855973-c1bc-4fee-a33c-b1ea3f49058b">
 
@@ -42,7 +44,6 @@
 | Java | MongoDB | Spring<br>Boot |
 | :---: | :---: | :---: |
 | <div style="display: flex; align-items: flex-start;"><img src="https://github.com/user-attachments/assets/0af70e4e-1991-4da1-9eb8-94ee8ab51b73" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://github.com/user-attachments/assets/4821fb33-7da7-497b-9cfc-0ffc0ba436e2" alt="icon" width="65" height="65" /></div> | <img src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > |
-
 
 ### AI
 [Repository](https://github.com/Starmix-ajou/checkmate-ai)
