@@ -55,6 +55,6 @@
 | <img src="https://github.com/user-attachments/assets/2ad2e3ce-e00e-4893-9f55-8b93b05c14d0" width="85" height="85" /> | <img src="https://github.com/user-attachments/assets/9a97ee43-8edd-446f-9e7b-0b8f1f8dc719" width="65" height="65" /> | <img src="https://github.com/user-attachments/assets/4bd5a357-9174-429d-b88f-d0ccb46332fd" height="50" width="50" > | <img src="https://github.com/user-attachments/assets/a7e614bd-1243-473e-8d18-f3da8e060c0e" width="65" height="65" > | <img src="https://github.com/user-attachments/assets/598357b4-eace-47a0-92bc-dc18e25d31ec" width="65" height="65" > |
 
 ### Tools
-| Slack | Github |
-| :---: | :---: |
-| <img alt="Slack" src="https://github.com/user-attachments/assets/ae425106-4b8a-45e7-8ed1-8dce21ff3fcf" width="65" height="65" > | <img alt="Github" src="https://github.com/user-attachments/assets/e5df4ab7-13db-4e1a-bbb5-fa0a45fbb166" width="65" height="65"> |
+| Slack | Github | Jira | Notion |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/ae425106-4b8a-45e7-8ed1-8dce21ff3fcf" width="65" height="65" > | <img src="https://github.com/user-attachments/assets/e5df4ab7-13db-4e1a-bbb5-fa0a45fbb166" width="65" height="65"> | <img src="https://github.com/user-attachments/assets/568ed4a3-c204-4e88-b385-0e422f3e05ef" width="65" height="65"> | <img src="https://github.com/user-attachments/assets/499456f2-c06c-4ccf-99a5-f1c40a7b61e3" width="65" height="65"> |
