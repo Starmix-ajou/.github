@@ -17,7 +17,7 @@
 ## 👨‍👩‍👧‍👦 Team
 | 조성연<br>(팀장, BE) | 김평주<br>(FE) | 박승연<br>(AI) | 한도연<br>(FE) |
 | :---: | :---: | :---: | :---: |
-| <img alt="조성연" src="https://github.com/user-attachments/assets/42acb44c-2da6-4577-aee9-7b24766a7470" height="100" width="100"> | <img alt="김평주" src="https://github.com/user-attachments/assets/bf37d898-4a0e-4316-8328-f0a54f80ece4" height="100" width="100"> | <img alt="박승연" src="https://github.com/user-attachments/assets/512648f5-f4c7-4721-88c7-ca2f31383121" height="100" width="100"> | <img alt="한도연" src="https://github.com/user-attachments/assets/0105bb5f-bdf3-41a2-b513-6c11f7fb33e2" height="100" width="100"> |
+| <img alt="조성연" src="https://github.com/user-attachments/assets/a7a83797-ae11-4c86-9f9c-f1ee4dcffa37" height="100" width="100"> | <img alt="김평주" src="https://github.com/user-attachments/assets/b8da45f5-20c3-4996-a2f5-79df73a22929" height="100" width="100"> | <img alt="박승연" src="https://github.com/user-attachments/assets/6161e664-bf97-452f-b6b0-6b384a643b7c" height="100" width="100"> | <img alt="한도연" src="https://github.com/user-attachments/assets/106931b7-9abc-4401-bb3e-96cc00dcf838" height="100" width="100"> |
 | [@yeonnnnjs](https://github.com/yeonnnnjs) |    [@pjookim](https://github.com/pjookim) | [@AstronaCat](https://github.com/AstronaCat) | [@wsd9489](https://github.com/wsd9489) |
 
 ## Architecture
@@ -41,20 +41,21 @@
 [Repository](https://github.com/Starmix-ajou/checkmate-backend)
 | Java | MongoDB | Spring<br>Boot |
 | :---: | :---: | :---: |
-| <div style="display: flex; align-items: flex-start;"><img src="https://github.com/user-attachments/assets/0af70e4e-1991-4da1-9eb8-94ee8ab51b73" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://github.com/user-attachments/assets/598357b4-eace-47a0-92bc-dc18e25d31ec" alt="icon" width="65" height="65" /></div> | <img src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > |
+| <div style="display: flex; align-items: flex-start;"><img src="https://github.com/user-attachments/assets/0af70e4e-1991-4da1-9eb8-94ee8ab51b73" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://github.com/user-attachments/assets/4821fb33-7da7-497b-9cfc-0ffc0ba436e2" alt="icon" width="65" height="65" /></div> | <img src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > |
+
 
 ### AI
 [Repository](https://github.com/Starmix-ajou/checkmate-ai)
 | Python | MongoDB | FastAPI | Hugging Face | OpenAI<br>Chat Completions<br>API |
 | :---: | :---: | :---: | :---: | :---: |
-| <div style="display: flex; align-items: flex-start;"><img src="https://github.com/user-attachments/assets/1582e55f-96a1-42c9-a038-0677ca66c994" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://github.com/user-attachments/assets/598357b4-eace-47a0-92bc-dc18e25d31ec" alt="icon" width="65" height="65" /></div> | <img src="https://github.com/user-attachments/assets/6e308186-a0f5-4b13-981b-f5029a189505" width="65" height="65" > | <img src="https://github.com/user-attachments/assets/5ec77529-b735-42b5-ac90-827e31b02de3" width="65" height="65" > | <img src="https://github.com/user-attachments/assets/de344faf-a6b4-44eb-bf83-f5f03ff29d13" width="65" height="65" > |
+| <div style="display: flex; align-items: flex-start;"><img src="https://github.com/user-attachments/assets/1582e55f-96a1-42c9-a038-0677ca66c994" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://github.com/user-attachments/assets/4821fb33-7da7-497b-9cfc-0ffc0ba436e2" alt="icon" width="65" height="65" /></div> | <img src="https://github.com/user-attachments/assets/6e308186-a0f5-4b13-981b-f5029a189505" width="65" height="65" > | <img src="https://github.com/user-attachments/assets/5ec77529-b735-42b5-ac90-827e31b02de3" width="65" height="65" > | <img src="https://github.com/user-attachments/assets/de344faf-a6b4-44eb-bf83-f5f03ff29d13" width="65" height="65" > |
 
 ### Infra
 | Oracle Cloud | Vercel | Kubernetes | ArgoCD | Atlas MongoDB |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/2ad2e3ce-e00e-4893-9f55-8b93b05c14d0" width="85" height="85" /> | <img src="https://github.com/user-attachments/assets/9a97ee43-8edd-446f-9e7b-0b8f1f8dc719" width="65" height="65" /> | <img src="https://github.com/user-attachments/assets/4bd5a357-9174-429d-b88f-d0ccb46332fd" height="50" width="50" > | <img src="https://github.com/user-attachments/assets/a7e614bd-1243-473e-8d18-f3da8e060c0e" width="65" height="65" > | <img src="https://github.com/user-attachments/assets/598357b4-eace-47a0-92bc-dc18e25d31ec" width="65" height="65" > |
+| <img src="https://github.com/user-attachments/assets/2ad2e3ce-e00e-4893-9f55-8b93b05c14d0" width="85" height="85" /> | <img src="https://github.com/user-attachments/assets/62d996e3-67bf-4ed4-aa4f-d8b44df5ac18" width="65" height="65" /> | <img src="https://github.com/user-attachments/assets/4bd5a357-9174-429d-b88f-d0ccb46332fd" height="50" width="50" > | <img src="https://github.com/user-attachments/assets/a7e614bd-1243-473e-8d18-f3da8e060c0e" width="65" height="65" > | <img src="https://github.com/user-attachments/assets/4821fb33-7da7-497b-9cfc-0ffc0ba436e2" width="65" height="65" > |
 
 ### Tools
 | Slack | Github | Jira | Notion |
 | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/ae425106-4b8a-45e7-8ed1-8dce21ff3fcf" width="65" height="65" > | <img src="https://github.com/user-attachments/assets/e5df4ab7-13db-4e1a-bbb5-fa0a45fbb166" width="65" height="65"> | <img src="https://github.com/user-attachments/assets/568ed4a3-c204-4e88-b385-0e422f3e05ef" width="65" height="65"> | <img src="https://github.com/user-attachments/assets/499456f2-c06c-4ccf-99a5-f1c40a7b61e3" width="65" height="65"> |
+| <img src="https://github.com/user-attachments/assets/47c60780-f844-41f2-b7e5-34096ed97820" width="65" height="65" > | <img src="https://github.com/user-attachments/assets/0f7cd7e5-577c-412c-9362-a0136f71fa5e" width="65" height="65"> | <img src="https://github.com/user-attachments/assets/568ed4a3-c204-4e88-b385-0e422f3e05ef" width="65" height="65"> | <img src="https://github.com/user-attachments/assets/499456f2-c06c-4ccf-99a5-f1c40a7b61e3" width="65" height="65"> |
