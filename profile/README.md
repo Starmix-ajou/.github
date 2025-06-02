@@ -15,10 +15,15 @@
 </br>
 
 ## 👨‍👩‍👧‍👦 Team
+
+<div align="center">
+
 | 조성연<br>(팀장, BE) | 김평주<br>(FE) | 박승연<br>(AI) | 한도연<br>(FE) |
 | :---: | :---: | :---: | :---: |
 | <img alt="조성연" src="https://github.com/user-attachments/assets/a7a83797-ae11-4c86-9f9c-f1ee4dcffa37" height="100" width="100"> | <img alt="김평주" src="https://github.com/user-attachments/assets/b8da45f5-20c3-4996-a2f5-79df73a22929" height="100" width="100"> | <img alt="박승연" src="https://github.com/user-attachments/assets/6161e664-bf97-452f-b6b0-6b384a643b7c" height="100" width="100"> | <img alt="한도연" src="https://github.com/user-attachments/assets/106931b7-9abc-4401-bb3e-96cc00dcf838" height="100" width="100"> |
-| [@yeonnnnjs](https://github.com/yeonnnnjs) |    [@pjookim](https://github.com/pjookim) | [@AstronaCat](https://github.com/AstronaCat) | [@wsd9489](https://github.com/wsd9489) |
+| [@yeonnnnjs](https://github.com/yeonnnnjs) | [@pjookim](https://github.com/pjookim) | [@AstronaCat](https://github.com/AstronaCat) | [@wsd9489](https://github.com/wsd9489) |
+
+</div>
 
 ## Architecture
 ### Service
