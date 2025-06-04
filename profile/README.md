@@ -7,12 +7,22 @@
 - **프로젝트 명 :** checkmate
 - **프로젝트 기간 :** 2025.03.06 ~
 
+<div align="center">
+
+| [checkmate](https://checkmate.it.kr) | [checkmate for PM](https://manager.checkmate.it.kr) |
+| :---: | :---: |
+
+</div>
+
 </br>
 
 ## 🛫 프로젝트 개요
 > **소규모 주니어 개발 팀을 위한 프로젝트 관리 및 협업 툴**
-- ♟ checkmate URL : [https://checkmate.it.kr](https://checkmate.it.kr)
-- 🖥 checkmate for PM URL : [https://manager.checkmate.it.kr](https://manager.checkmate.it.kr)
+
+AI를 활용한 프로젝트 생성과 Sprint 구성, 회의록 자동 요약 기능을 제공하여 팀의 초기 기획부터 실행까지의 과정을 효율적으로 지원합니다.<br>
+회의 내용을 실시간으로 정리할 수 있는 공동 편집 기능을 통해 주요 논의 사항을 요약하고, 이를 실행 가능한 액션 아이템(Task)으로 전환할 수 있습니다.<br>
+Task는 Epic 단위로 구조화할 수 있으며, Gantt Chart, Kanban Board, Calendar를 통해 관리할 수 있습니다.<br>
+또한 상세 Task 페이지의 댓글 기능을 통해 팀 내부 이해관계자 간의 원활한 소통이 가능하도록 하여, 개발 과정 전반에서 협업의 생산성을 높입니다.
 
 </br>
 
