@@ -11,6 +11,8 @@
 
 ## 🛫 프로젝트 개요
 > **소규모 주니어 개발 팀을 위한 프로젝트 관리 및 협업 툴**
+- ♟ checkmate URL : [https://checkmate.it.kr](https://checkmate.it.kr)
+- 🖥 checkmate for PM URL : [https://manager.checkmate.it.kr](https://manager.checkmate.it.kr)
 
 </br>
 
