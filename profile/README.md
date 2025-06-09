@@ -97,6 +97,13 @@ Task는 Epic 단위로 구조화할 수 있으며, Gantt Chart, Kanban Board, Ca
 | :---: | :---: | :---: |
 | <div style="display: flex; align-items: flex-start;"><img src="https://github.com/user-attachments/assets/0af70e4e-1991-4da1-9eb8-94ee8ab51b73" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://github.com/user-attachments/assets/4821fb33-7da7-497b-9cfc-0ffc0ba436e2" alt="icon" width="65" height="65" /></div> | <img src="https://t1.daumcdn.net/cfile/tistory/27034D4F58E660F616" width="65" height="65" > |
 
+#### 특징
+| 항목 | 설명 |
+|------|------|
+| **Hexagonal Architecture** |  |
+| **Domain Driven Design** |  |
+| **Spring Cloud OpenFeign** |  |
+
 ### AI
 [Repository](https://github.com/Starmix-ajou/checkmate-ai)
 | Python | MongoDB | FastAPI | Hugging Face | OpenAI<br>Chat Completions<br>API |
@@ -107,6 +114,12 @@ Task는 Epic 단위로 구조화할 수 있으며, Gantt Chart, Kanban Board, Ca
 | Oracle Cloud | Vercel | Kubernetes | ArgoCD | Atlas MongoDB |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/2ad2e3ce-e00e-4893-9f55-8b93b05c14d0" width="85" height="85" /> | <img src="https://github.com/user-attachments/assets/62d996e3-67bf-4ed4-aa4f-d8b44df5ac18" width="65" height="65" /> | <img src="https://github.com/user-attachments/assets/4bd5a357-9174-429d-b88f-d0ccb46332fd" height="50" width="50" > | <img src="https://github.com/user-attachments/assets/a7e614bd-1243-473e-8d18-f3da8e060c0e" width="65" height="65" > | <img src="https://github.com/user-attachments/assets/4821fb33-7da7-497b-9cfc-0ffc0ba436e2" width="65" height="65" > |
+
+#### 특징
+| 항목 | 설명 |
+|------|------|
+| **Kubernetes** |  |
+| **ArgoCD app of apps** |  |
 
 ### Tools
 | Slack | Github | Jira | Notion |
